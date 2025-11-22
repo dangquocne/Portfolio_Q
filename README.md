@@ -235,7 +235,6 @@ We would appreciate it if you decide to use this project. Please include proper 
 
 **Eki Zulfar Rachman**
 
-  - Website: [https://www.eki.my.id/](https://www.eki.my.id/)
   - GitHub: [EkiZR](https://github.com/EkiZR)
 
 -----
